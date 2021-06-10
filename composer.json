@@ -1,4 +1,6 @@
 {
     "name": "geeseek/ipregion",
-    "require": {}
+    "require": {},
+	
+	"license": "MIT"，
 }
